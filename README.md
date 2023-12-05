@@ -1,4 +1,4 @@
-# Qoala-OCR-app
+### Qoala-OCR-app
 
 
 **Qoala-Assignment Details **
