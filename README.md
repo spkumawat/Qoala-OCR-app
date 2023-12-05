@@ -89,12 +89,16 @@ npm install
 
 **Running the temporary server**
 cd backend
+
 node index.js
+
 the backend will run on http://localhost:5000/
 
 **run the Frontend **
 cd Frontend
+
 npm start
+
 the backend will run on http://localhost:3000/
 
 
