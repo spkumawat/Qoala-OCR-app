@@ -60,6 +60,28 @@ ACKNOWLEDGEMENT
 -> OVERVIEW
 This project aims to develop an application utilizing Optical Character Recognition (OCR) to extract information from Thai ID cards. The app integrates with the Google Vision API for OCR processing, extracting key data fields like name, last name, identification number, date of birth, date of issue, and date of expiry.
 
+FEATURE:
+OCR Processing: Integrates with Google Vision API for accurate text extraction from Thai ID card images.
+Data Extraction: Parses OCR results to extract key information.
+User Interface: Provides a simple UI to upload ID card images, displays JSON output, lists successful and failed OCR operations, and offers filtering options for query history.
+Database Integration: Uses a chosen database to store and manage OCR data. Implements CRUD API endpoints:
+Create a New OCR Record
+Update Existing OCR Data
+Retrieve and Display OCR Data with filtering options
+Delete OCR Records
+
+
+GETTING STARTED
+Please ensure you have the following dependencies installed on your system:
+
+- ℹ️ NodeJS > v18.16
+
+- Install the modules
+npm install
+
+RUN THE COMMAND 
+npx creat-react-app Frontend
+
 
 
 
