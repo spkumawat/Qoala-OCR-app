@@ -76,11 +76,11 @@ Please ensure you have the following dependencies installed on your system:
 
 - ℹ️ NodeJS > v18.16
 
+ Installation
+Clone the sendx-frontend-iec2020097 repository:
+
 - Install the modules
 npm install
-
-RUN THE COMMAND 
-npx creat-react-app Frontend
 
 
 
