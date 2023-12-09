@@ -1,6 +1,12 @@
 ### Qoala-OCR-app
 
 
+**Final Improvement** 
+I have made some improvement after the deadline. here is the repository link:
+https://github.com/spkumawat/final-OCR
+
+
+
 **Qoala-Assignment Details **
 
 Create an OCR (Optical Character Recognition) App that can recognize thai id cards and get the required information. Save this information for retrival later.
